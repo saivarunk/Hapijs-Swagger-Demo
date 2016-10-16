@@ -1,0 +1,22 @@
+{
+  "name": "api-demo",
+  "version": "0.0.1",
+  "description": "hapijs demo swagger",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hapijs",
+    "swagger"
+  ],
+  "author": "varun",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^15.1.1",
+    "hapi-swagger": "^7.2.0",
+    "inert": "^4.0.2",
+    "joi": "^9.1.1",
+    "vision": "^4.1.0"
+  }
+}
